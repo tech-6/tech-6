@@ -2,7 +2,7 @@
 
 I write code alot of the time, but here is where my public lives.
 
-My recent endeavors are into Erlang its ability for concurrency. I sometimes also let my artistic side out and make
+My recent endeavors are into Erlang and its ability for concurrency. I sometimes also let my artistic side out and make
 some little badges.
 
 ![Powered by Erlang](https://github.com/tech-6/tech-6/blob/main/Powered%20By%20Erlang.gif?raw=true)
