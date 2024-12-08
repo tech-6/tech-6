@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋 im Tech.
+
+I write code alot of the time, but here is where my public lives.
+
+My recent endeavors are into Erlang its ability for concurrency. I sometimes also let my artistic side out and make
+some little badges.
+![Powered by Erlang](https://github.com/tech-6/tech-6/blob/main/Powered%20By%20Erlang.gif?raw=true)
+![Digital Twin](https://github.com/tech-6/tech-6/blob/main/digital%20twin.gif?raw=true)
+
 
 <!--
 **tech-6/tech-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
